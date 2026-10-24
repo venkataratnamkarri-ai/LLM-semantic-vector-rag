@@ -1,0 +1,33 @@
+story,label
+As a user I want to create an account so that I can register on DemoBlaze,SignUp
+As a user I want to enter a username and password so that I can register,SignUp
+As a user I want to be notified about duplicate usernames so that I can choose another username,SignUp
+As a user I want to see a success message so that I know my registration is complete,SignUp
+As a user I want invalid registration attempts to be rejected so that incorrect details are not accepted,SignUp
+As a user I want to log in with valid credentials so that I can access the website,Login
+As a user I want invalid credentials to be rejected so that my account remains secure,Login
+As a user I want empty login fields to be handled so that I know what information is missing,Login
+As a user I want to see a login confirmation so that I know I am logged in,Login
+As a user I want to log out so that I can end my session,Login
+As a user I want to view products so that I can explore available items,Home
+As a user I want to browse product categories so that I can find relevant products,Home
+As a user I want to view product details so that I can make a purchase decision,Home
+As a user I want to navigate product pages so that I can explore more products,Home
+As a user I want to add products to my cart so that I can buy them later,Home
+As a user I want to view my cart so that I can review selected products,Cart
+As a user I want to view product prices so that I can check the cost,Cart
+As a user I want to remove products so that I can update my cart,Cart
+As a user I want to view the total price so that I know the amount payable,Cart
+As a user I want to place an order so that I can purchase selected products,Cart
+As a user I want to enter order details so that I can complete my purchase,Cart
+As a user I want to receive an order confirmation so that I know my purchase is complete,Cart
+As a user I want to open the contact form so that I can contact the business,Contact us
+As a user I want to enter my name and email so that the business can identify me,Contact us
+As a user I want to enter a message so that I can explain my query,Contact us
+As a user I want to submit my message so that the business receives it,Contact us
+As a user I want to see submission feedback so that I know whether my message was sent,Contact us
+As a user I want to open the About section so that I can learn about DemoBlaze,About
+As a user I want to view company information so that I can understand the business,About
+As a user I want to access the company presentation so that I can learn more about the company,About
+As a user I want to play the company video so that I can learn about DemoBlaze,About
+As a user I want to close the About section so that I can return to shopping,About
